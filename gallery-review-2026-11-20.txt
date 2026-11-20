@@ -1,0 +1,11 @@
+Gallery review — 2026-11-20
+
+Preview checked at the live project URL after entering #journey and scrolling into the gallery.
+
+Findings:
+- Gallery cards now form a compact three-column polaroid/contact-sheet wall on desktop.
+- Photo 01, 02, and 03 sit close together in the first row with restrained rotation.
+- The remaining cards use the same tighter rhythm instead of the previous wide, drifting layout.
+- A very faint grayscale photo texture sits behind the gallery; it is visible without competing with the cards or captions.
+- Existing caption typography and card hover treatment remain intact.
+- Build completed successfully with pnpm build.
